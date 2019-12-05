@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vinay P Namboodiri"
   avatar           : "profile.png"
-  bio              : "Associate Professor<br>CSE, IIT Kanpur<br>Research Interests<br> Computer vision<br> Machine learning<br>"
+  bio              : "Associate Professor<br><a style='color: black;' href='https://www.cse.iitk.ac.in'>CSE,</a> <a style='color: black;' href='https://www.iitk.ac.in'> IIT Kanpur,</a> <br>Research Interests<br> Computer vision<br> Machine learning<br>"
   location         : "Kanpur, India"
   employer         : "CSE, IIT Kanpur"
   pubmed           : 
