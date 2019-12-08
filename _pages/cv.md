@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Tech. in Computer Science and Engineering, IIT Bombay, 2002
+* M.Tech. in Computer Science and Engineering, IIT Bombay, 2003
 * Ph.D in Computer Vision, Electrical Engineering Department, IIT Bombay, 2008
 
 Work experience
