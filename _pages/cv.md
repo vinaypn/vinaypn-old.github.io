@@ -16,16 +16,23 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 onwards: Associate Professor
+  * Department of Computer Science and Engineering, IIT Kanpur
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - 2018: Assistant Professor
+  * Department of Computer Science and Engineering, IIT Kanpur
   
+* 2011 - 2013: Researcher
+  * Bell Labs, Antwerp
+
+* 2008 - 2011: Post-doctoral fellow
+  * ESAT, KU Leuven
+
+* 2003 - 2008: Research Assistant
+  * EE, IIT Bombay
+
+* 1999 - 2003: Staff Scientist
+  * NCST Juhu, Bombay
 
 Publications
 ======
@@ -33,18 +40,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Serving as Area Chair for CVPR 2020.
+* Serving as Senior Program Committee member for AAAI 2020.
+* Serving as Program Chair for NCVPRIPG 2019
+* Served as Senior Program Committee member for IJCAI 2018
+* Serving as Workshop and Tutorial Chair for ICVGIP 2018.
+* Serving as Area Chair for ACCV 2018.
+* Serving as Area Chair for ICVGIP 2018.
+* Co-organized the Mysore Park workshop on Vision, Language and AI in December 2016 that was sponsored by Google and Infosys
+* Co-organized the ACCV 2016 workshop on Assistive Vision
+* Served as an Area Chair for the ICVGIP 2016 conference
+* Served as an Area Chair for WACV 2016
+* Served as reviewer or program committee member for several journals (such as IEEE Trans. on Image Processing, IEEE Trans. on PAMI, CVIU, IJCV) and several conferences (such as CVPR, ECCV, ICCV, IJCAI, NIPS, ICML, ICLR).
