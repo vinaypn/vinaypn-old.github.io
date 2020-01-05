@@ -12,9 +12,7 @@ title_separator          : " "
 name                     : &name "Vinay P. Namboodiri"
 description              : &description "I am a faculty member at CSE, IIT Kanpur. I pursue research in computer vision and machine learning."
 url                      : https://vinaypn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vinaypn/vinaypn.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,39 +80,17 @@ analytics:
 author:
   name             : "Vinay P Namboodiri"
   avatar           : "profile.png"
-  bio              : "Associate Professor<br><a style='color: black;' href='https://www.cse.iitk.ac.in'>CSE,</a> <a style='color: black;' href='https://www.iitk.ac.in'> IIT Kanpur,</a> <br>Research Interests<br> Computer vision<br> Machine learning<br>"
+  bio              : "Associate Professor<br><a style='color: black;' href='https://www.cse.iitk.ac.in'>CSE,</a> <a style='color: black;' href='https://www.iitk.ac.in'> IIT Kanpur,</a><br> Research Interests <br>Computer vision,<br> Machine learning"
   location         : "Kanpur, India"
   employer         : "CSE, IIT Kanpur"
-  pubmed           : 
   googlescholar    : "http://scholar.google.co.in/citations?user=JyHi9OoAAAAJ"
-  email            :
+  email            : "vinaypn[at]iitk.ac.in"
   researchgate     :  "https://www.researchgate.net/profile/Vinay_Namboodiri"# example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "vinaypn"
-  google_plus      :
-  keybase          :
-  instagram        :
+  github           : "https://github.com/vinaypn"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/vinaypn/"
   orcid            : "https://orcid.org/0000-0001-5262-9722"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "vinaypn"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  twitter          : "https://twitter.com/vinaypn"
 
 
 # Reading Files
