@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /pubs_short/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Teaching"
     url: /teaching/    
 

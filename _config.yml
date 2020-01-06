@@ -86,11 +86,11 @@ author:
   googlescholar    : "http://scholar.google.co.in/citations?user=JyHi9OoAAAAJ"
   email            : "vinaypn[at]iitk.ac.in"
   researchgate     :  "https://www.researchgate.net/profile/Vinay_Namboodiri"# example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "https://github.com/vinaypn"
+  github           : "vinaypn"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  linkedin         : "https://www.linkedin.com/in/vinaypn/"
+  linkedin         : "vinaypn/"
   orcid            : "https://orcid.org/0000-0001-5262-9722"
-  twitter          : "https://twitter.com/vinaypn"
+  twitter          : "vinaypn"
 
 
 # Reading Files
