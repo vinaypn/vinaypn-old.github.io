@@ -1,0 +1,16 @@
+---
+title: "Hetconv: Heterogeneous kernel-based convolutions for deep cnns"
+collection: publications
+permalink: /publication/2019-06-16-2019_cvpr_pravendra
+excerpt: 'We present a novel deep learning architecture in which the convolution operation leverages heterogeneous kernels. The proposed HetConv (Heterogeneous Kernel-Based Convolution) reduces the computation (FLOPs) and the number of parameters as compared to standard convolution operation while still maintaining representational efficiency. To show the effectiveness of our proposed convolution, we present extensive experimental results on the standard convolutional neural network (CNN) architectures such as VGG \cite{vgg2014very} and ResNet \cite{resnet}. We find that after replacing the standard convolutional filters in these architectures with our proposed HetConv filters, we achieve 3X to 8X FLOPs based improvement in speed while still maintaining (and sometimes improving) the accuracy. We also compare our proposed convolutions with group/depth wise convolutions and show that it achieves more FLOPs reduction with significantly higher accuracy.'
+date: 2019-06-16
+venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
+paperurl: 'http://openaccess.thecvf.com/content_CVPR_2019/papers/Singh_HetConv_Heterogeneous_Kernel-Based_Convolutions_for_Deep_CNNs_CVPR_2019_paper.pdf'
+citation: 'Pravendra Singh, Vinay Kumar Verma, Piyush Rai and Vinay P. Namboodiri,”Hetconv: Heterogeneous kernel-based convolutions for deep cnns”, <i>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>Long Beach, California, June 2019.'
+---
+
+<a href='http://openaccess.thecvf.com/content_CVPR_2019/papers/Singh_HetConv_Heterogeneous_Kernel-Based_Convolutions_for_Deep_CNNs_CVPR_2019_paper.pdf'>Download paper here</a>
+
+We present a novel deep learning architecture in which the convolution operation leverages heterogeneous kernels. The proposed HetConv (Heterogeneous Kernel-Based Convolution) reduces the computation (FLOPs) and the number of parameters as compared to standard convolution operation while still maintaining representational efficiency. To show the effectiveness of our proposed convolution, we present extensive experimental results on the standard convolutional neural network (CNN) architectures such as VGG \cite{vgg2014very} and ResNet \cite{resnet}. We find that after replacing the standard convolutional filters in these architectures with our proposed HetConv filters, we achieve 3X to 8X FLOPs based improvement in speed while still maintaining (and sometimes improving) the accuracy. We also compare our proposed convolutions with group/depth wise convolutions and show that it achieves more FLOPs reduction with significantly higher accuracy.
+
+Recommended citation: Pravendra Singh, Vinay Kumar Verma, Piyush Rai and Vinay P. Namboodiri,”Hetconv: Heterogeneous kernel-based convolutions for deep cnns”, <i>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</i>Long Beach, California, June 2019.
