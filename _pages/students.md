@@ -9,7 +9,7 @@ redirect_from:
 * Pravendra Singh, <i>Open Seminar done</i>
 * Sumesh T.A., jointly with Prof. Phalguni Gupta <i>Open Seminar Done</i>
 * B.V. Raghav
-* Vinod Kumar Kurmi, jointly with Prof. K.S. Venkatesh
+* Vinod Kumar Kurmi, jointly with Prof. K.S. Venkatesh <i>Open Seminar Done</i>
 * Pratik Mazumder, jointly with Dr. Piyush Rai
 * Ravindra Yadav, jointly with Prof. Rajesh Hegde
 * Samik Some
