@@ -39,7 +39,8 @@ redirect_from:
 ## List of completed PhD students
 * Arshad Jamal, jointly with Prof. K.S. Venkatesh and Dr. Deepti Deodhare
    * Thesis Title: <i>Recognizing Activities Under Domain Shift</i>
-   * PhD Thesis: submitted for review July 2019
+   * PhD Thesis: submitted for review August 2019
+   * PhD Thesis: Defended 18th January 2020
 * Badri Patro
    * Thesis Title: <i>Towards Understanding Vision and Language Systems: Controllability, Uncertainty and Interpretability for VQA and VQG</i>
    * PhD Thesis: submitted for review December 2019
