@@ -6,10 +6,8 @@ redirect_from:
 ---
 
 ## List of current PhD students
-* Pravendra Singh, <i>Open Seminar done</i>
 * Sumesh T.A., jointly with Prof. Phalguni Gupta <i>Open Seminar Done</i>
 * B.V. Raghav
-* Vinod Kumar Kurmi, jointly with Prof. K.S. Venkatesh <i>Open Seminar Done</i>
 * Pratik Mazumder, jointly with Dr. Piyush Rai
 * Ravindra Yadav, jointly with Prof. Rajesh Hegde
 * Samik Some
@@ -44,6 +42,15 @@ redirect_from:
 * Badri Patro
    * Thesis Title: <i>Towards Understanding Vision and Language Systems: Controllability, Uncertainty and Interpretability for VQA and VQG</i>
    * PhD Thesis: submitted for review December 2019
+   * PhD Thesis: Defended 10th August 2020
+* Pravendra Singh
+   * Thesis Title: <i>Efficient Methods for Deep Learning</i>
+   * PhD Thesis: submitted for review April 2020
+   * PhD Thesis: Defended 4th November 2020
+* Vinod Kumar Kurmi, jointly with Prof. K.S. Venkatesh
+   * Thesis Title: <i> Understanding Transfer Learning between Domains and Tasks </i>
+   * PhD Thesis: submitted for review: July 2020
+   * PhD Thesis: Defended 6th December 2020
 
 ## List of completed Master's students
 * Kalyanasundaram, Karthick
