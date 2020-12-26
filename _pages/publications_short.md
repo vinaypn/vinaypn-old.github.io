@@ -9,6 +9,6 @@ redirect_from:
 
 Detailed list of publications available over [here](/publications/)
 
-  <ul>{% for post in site.publications %}
+  <ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
