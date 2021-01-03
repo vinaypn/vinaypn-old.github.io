@@ -36,15 +36,19 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
   
 Service and leadership
 ======
-* Serving as Area Chair for CVPR 2020.
-* Serving as Senior Program Committee member for AAAI 2020.
+* Serving as Area Chair for ICCV 2021
+* Served as Senior Program Committee member for AAAI 2020.
+* Serving as Associate Editor for IET Computer Vision
+* Served as Area Chair for BMVC 2020
+* Served as Area Chair for CVPR 2020.
+* Served as Senior Program Committee member for AAAI 2020.
 * Serving as Program Chair for NCVPRIPG 2019
 * Served as Senior Program Committee member for IJCAI 2018
 * Serving as Workshop and Tutorial Chair for ICVGIP 2018.
