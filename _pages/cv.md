@@ -44,7 +44,7 @@ Publications
 Service and leadership
 ======
 * Serving as Area Chair for ICCV 2021
-* Served as Senior Program Committee member for AAAI 2020.
+* Served as Senior Program Committee member for AAAI 2021.
 * Serving as Associate Editor for IET Computer Vision
 * Served as Area Chair for BMVC 2020
 * Served as Area Chair for CVPR 2020.
