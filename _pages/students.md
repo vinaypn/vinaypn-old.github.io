@@ -6,18 +6,18 @@ redirect_from:
 ---
 
 ## List of current PhD students
-* Sumesh T.A., jointly with Prof. Phalguni Gupta <i>Open Seminar Done</i>
-* B.V. Raghav
-* Pratik Mazumder, jointly with Dr. Piyush Rai
 * Ravindra Yadav, jointly with Prof. Rajesh Hegde
 * Samik Some
 * Utsav Singh
-* Munender Kumar
-* Prem Raj, jointly with Prof. Behera
 * Soumya Banerjee
 * Avideep Mukherjee
+<!---
 * A. Sai Susmitha
+* Sumesh T.A., jointly with Prof. Phalguni Gupta <i>Open Seminar Done</i>
+* Prem Raj, jointly with Prof. Behera
+-->
 
+<!---
 ## List of current Master's students
 * Niharika Ahuja
 * Aman Deep Singh
@@ -33,6 +33,7 @@ redirect_from:
 * Hemant Parihar
 * Deepankar Srivastava
 * Parul Kapoor
+-->
 
 ## List of completed PhD students
 * Arshad Jamal, jointly with Prof. K.S. Venkatesh and Dr. Deepti Deodhare
@@ -51,7 +52,10 @@ redirect_from:
    * Thesis Title: <i> Understanding Transfer Learning between Domains and Tasks </i>
    * PhD Thesis: submitted for review: July 2020
    * PhD Thesis: Defended 6th December 2020
+* Pratik Mazumder, jointly with Dr. Piyush Rai
+* B.V. Raghav
 
+<!---
 ## List of completed Master's students
 * Kalyanasundaram, Karthick
    * Thesis Title: <i>Active Learning for Visual Object Recognition</i>
@@ -218,3 +222,4 @@ redirect_from:
 * Asim Unmesh
    * Thesis Title: <i>Active Learning for Image Classification</i>
    * Graduation Year 2019
+-->
