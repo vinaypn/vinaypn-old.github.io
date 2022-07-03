@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* 2018 onwards: Associate Professor
+* 2020 onwards: Faculty member at University of Bath
+  * Department of Computer Science, University of Bath
+
+* 2018 - 2020 : Associate Professor 
   * Department of Computer Science and Engineering, IIT Kanpur
 
 * 2013 - 2018: Assistant Professor
@@ -43,7 +46,10 @@ Publications
   
 Service and leadership
 ======
-* Serving as Area Chair for ICCV 2021
+* Serving as Associate Editor for Pattern Recognition Journal
+* Served as Area Chair for CVPR 2022
+* Served as Area Chair for WACV 2022
+* Served as Area Chair for ICCV 2021
 * Served as Senior Program Committee member for AAAI 2021.
 * Serving as Associate Editor for IET Computer Vision
 * Served as Area Chair for BMVC 2020
