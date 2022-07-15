@@ -8,8 +8,8 @@ redirect_from:
 ## List of current PhD students
 * Samik Some - IITK
 * Utsav Singh - IITK
-* Soumya Banerjee - IITK
-* Avideep Mukherjee - IITK
+* Soumya Banerjee - IITK, jointly with Prof. Piyush Rai
+* Avideep Mukherjee - IITK, jointly with Prof. Piyush Rai
 * A. Sai Susmitha - IITK
 * Rudrabha Mukhopadhyay - IIIT Hyderabad, jointly with Prof. C.V. Jawahar
 * Seshadri Mazumder - IIIT Hyderabad, jointly with Prof. C.V. Jawahar
