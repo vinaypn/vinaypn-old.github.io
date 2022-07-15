@@ -6,14 +6,17 @@ redirect_from:
 ---
 
 ## List of current PhD students
-* Ravindra Yadav, jointly with Prof. Rajesh Hegde
-* Samik Some
-* Utsav Singh
-* Soumya Banerjee
-* Avideep Mukherjee
+* Samik Some - IITK
+* Utsav Singh - IITK
+* Soumya Banerjee - IITK
+* Avideep Mukherjee - IITK
+* A. Sai Susmitha - IITK
+* Rudrabha Mukhopadhyay - IIIT Hyderabad, jointly with Prof. C.V. Jawahar
+* Seshadri Mazumder - IIIT Hyderabad, jointly with Prof. C.V. Jawahar
+* Jack Saunders - Univ. of Bath, jointly with Prof. Darren Cosker
+* Shashank Sharma - Univ. of Bath
 
 <!---
-* A. Sai Susmitha
 * Sumesh T.A., jointly with Prof. Phalguni Gupta <i>Open Seminar Done</i>
 * Prem Raj, jointly with Prof. Behera
 -->
@@ -55,6 +58,7 @@ redirect_from:
    * PhD Thesis: Defended 6th December 2020
 * Pratik Mazumder, jointly with Dr. Piyush Rai
 * B.V. Raghav
+* Ravindra Yadav, jointly with Prof. Rajesh Hegde
 
 <!---
 ## List of completed Master's students
