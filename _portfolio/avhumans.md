@@ -1,10 +1,9 @@
 ---
-title: "Audio - Visual Humans"
+title: "Audio-Visual Digital Humans"
 excerpt: "Project page for Audio Visual Humans"
 collection: portfolio
 ---
 
-## Audio-Visual Digital Humans
 
 We have been pursuing research on a number of aspects related to audio-visual digital humans. On this page we present the works that we have been involved with
 
