@@ -109,4 +109,4 @@ Understanding the relationship between the auditory and visual signals is crucia
 [Paper link](https://arxiv.org/abs/2011.07340)
 
 ### Future Work
-We are presently exploring inclusion of 3D information for the Audio-Visual Humans project and  includes 3D information to obtain realistic 3D talking faces
+We are presently exploring inclusion of 3D information for the Audio-Visual Humans project. 
