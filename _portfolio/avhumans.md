@@ -13,7 +13,7 @@ In this work, we investigate the problem of lip-syncing a talking face video of 
 
 [![Watch the video](https://img.youtube.com/vi/0fXaDCZNOJc/maxresdefault.jpg)]( https://www.youtube.com/watch?v=0fXaDCZNOJc)
 
-
+[Detailed Project page](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/)
 
 ### Audio generation based on lip movements (aka Lip2Wav)
 
