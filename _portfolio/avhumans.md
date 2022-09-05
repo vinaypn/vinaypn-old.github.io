@@ -1,6 +1,6 @@
 ---
 title: "Audio-Visual Digital Humans"
-excerpt: "Project page for Audio Visual Humans"
+excerpt: "Project page for Audio Visual Digital Humans"
 collection: portfolio
 ---
 
