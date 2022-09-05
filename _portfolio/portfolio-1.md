@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Audio - Visual Humans"
+excerpt: "Project page for Audio Visual Humans"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Audio-Visual Digital Humans
+
+We have been pursuing research on a number of aspects related to audio-visual digital humans. On this page we present the works that we have been involved with
+
+### Lip synchronization based on audio (aka Wav2Lip)
+
+
+### Audio generation based on lip movements (aka Lip2Wav)
+
+
+### Face to Face Translation
